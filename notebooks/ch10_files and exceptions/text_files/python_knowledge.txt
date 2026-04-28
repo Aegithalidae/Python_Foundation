@@ -1,0 +1,20 @@
+In Python you can store data in variables with clear, readable names.
+In Python you can use lists to keep ordered collections of items.
+In Python you can use dictionaries to map keys to values efficiently.
+In Python you can write if statements to control decision making.
+In Python you can loop through data with for and while loops.
+In Python you can define reusable logic with functions.
+In Python you can set default parameter values in functions.
+In Python you can return multiple values from a function.
+In Python you can organize code into modules and import them.
+In Python you can handle errors gracefully using try and except.
+In Python you can read from and write to text files.
+In Python you can work with file paths using pathlib.
+In Python you can create classes to model real-world objects.
+In Python you can use inheritance to extend existing classes.
+In Python you can process large datasets with generator expressions.
+In Python you can use list comprehensions for concise data transforms.
+In Python you can install third-party packages to expand capabilities.
+In Python you can write tests to verify code behavior.
+In Python you can automate repetitive tasks with scripts.
+In Python you can build web apps, data tools, and machine learning projects.
